@@ -51,6 +51,27 @@ ejemplo <- "abcde"
 class(ejemplo)
 
 
-
-
-
+#Funciones pre cargadas de R
+#Para numeros
+abs(-1)
+ceiling(3.6)
+trunc(3.6)
+floor(3.6)
+cos(90)
+sin(90)
+tan(90)
+exp(2)
+log10(3)
+log(3)
+log2(3)
+max(c(3, 100, 345, 78))
+min(c(3, 100, 345, 78))
+order(c(3, 100, 345, 78))
+sort(c(3, 100, 345, 78))
+prod(c(3, 100, 345, 78))
+range(c(3, 100, 345, 78))
+rev(c(3, 100, 345, 78))
+sample(c(3, 100, 345, 78), 1)
+summary(c(3, 100, 345, 78))
+sum(c(3, 100, 345, 78))
+var(c(3, 100, 345, 78))
