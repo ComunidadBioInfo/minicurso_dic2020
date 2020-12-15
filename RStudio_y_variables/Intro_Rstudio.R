@@ -1,5 +1,7 @@
 # Esto es un comentario
 
+# Simbolo de asignacion <-
+
 # Funciones basicas
 
 # Suma
@@ -50,6 +52,21 @@ class(a)
 ejemplo <- "abcde"
 class(ejemplo)
 
+# Vectores simbolo "c" de concatenar
+vector_1 <- c(1,3,5,7)
+vector_1[4]
+vector_1[1:3]
+vector_1[-4]
+
+vector_2 <- c("a","b", "ab", "c", "a")
+vector_2 == "a"
+vector_2[vector_2 == "a"]
+vector_2 != "a"
+vector_2[vector_2 != "a"]
+
+seleccion <- vector_2 != "a"
+filtrado <- vector_2[seleccion]
+filtrado
 
 #Funciones pre cargadas de R
 #Para numeros
