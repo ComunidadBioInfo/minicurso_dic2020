@@ -1,0 +1,4 @@
+nombre edad estatura
+Julie 22 1.62
+Juan 29 1.75
+Sofia 34 1.65
