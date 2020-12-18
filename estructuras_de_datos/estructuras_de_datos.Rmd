@@ -547,7 +547,7 @@ class: title-slide
 .center[ 
 # ¡Gracias!
 
-### Estas diapositivas fueron hechas utilizando el paquete [xaringan](https://github.com/yihui/xaringan) y configuradas con el tema [rmb](https://github.com/josschavezf/xaringan).
+### Estas diapositivas fueron hechas utilizando el paquete [xaringan](https://github.com/yihui/xaringan) y configuradas con el tema [rmb](https://github.com/ComunidadBioInfo/minicurso_dic2020/tree/main/estructuras_de_datos/css).
 
 Puedes consultar el material en [https://github.com/ComunidadBioInfo/minicurso_dic2020](https://github.com/ComunidadBioInfo/minicurso_dic2020)
 
