@@ -6,7 +6,7 @@ institute: "@josschavezf"
 date: "18/12/2020"
 output:
   xaringan::moon_reader:
-    css : [css/rmb.css, css/rmb-fonts.css]
+    css: ["css/rmb.css","css/rmb-fonts.css"]
     lib_dir: libs
 ---
 ```{r configuracion, include = FALSE}
