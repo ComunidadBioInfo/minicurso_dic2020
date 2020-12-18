@@ -9,17 +9,17 @@ output:
     css : [css/rmb.css, css/rmb-fonts.css]
     lib_dir: libs
 ---
+```{r configuracion, include = FALSE}
+xaringanExtra::use_clipboard()
+```
+---
 
-<br />
-<br />
-<br />
-<br />
+class: center, middle
 
-.center[
 ### Este material posee una licencia tipo Creative Commons Attribution-ShareAlike 4.0 International License.
 
 ### Para conocer más sobre esta licencia, visite: [http://creativecommons.org/licenses/by-sa/4.0/](                   http://creativecommons.org/licenses/by-sa/4.0/)
-]
+
 ---
 class: chapter-slide
 
@@ -537,18 +537,13 @@ instalar desde CRAN con:
 
 ---
 
-class: title-slide
+class: title-slide, center, middle
 
-<br />
-<br />
-<br />
-<br />
 
-.center[ 
 # ¡Gracias!
 
 ### Estas diapositivas fueron hechas utilizando el paquete [xaringan](https://github.com/yihui/xaringan) y configuradas con el tema [rmb](https://github.com/ComunidadBioInfo/minicurso_dic2020/tree/main/estructuras_de_datos/css).
 
 Puedes consultar el material en [https://github.com/ComunidadBioInfo/minicurso_dic2020](https://github.com/ComunidadBioInfo/minicurso_dic2020)
 
-]
+
